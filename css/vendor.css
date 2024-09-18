@@ -53,7 +53,7 @@
     left: 0;
     top: 0;
     z-index: 10;
-    background-color: #000;
+    background-color: #FFC0CB;
     visibility: hidden;
     opacity: 0;
 }
@@ -72,7 +72,7 @@
     left: 0;
     top: 0;
     z-index: 16;
-    color: #fff;
+    color: #FFC0CB;
     visibility: hidden;
 }
 .chocolat-wrapper.chocolat-visible {
